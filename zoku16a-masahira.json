@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/masahira",
  "yomi": "おおえのまさひらあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "大江匡衡",
+  "desc": "漢学者として知られた大江匡衡の家集。官職を望む述懐の歌や、女性との贈答、権門での詠などを収める。"
+ },
  "editions": [
   {
    "pid": "936505",
